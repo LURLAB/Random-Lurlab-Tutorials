@@ -1,0 +1,64 @@
+﻿Liburutegien instalazioa Arduino IDEn
+
+
+Arduino IDEan idazten ditugun kode zatiak modu labur eta errazagoan egin ahal izateko liburutegiak erabili daitezke, hautatuko sentsore edo eragingaluen arabera. Liburutegi hoiek Arduino IDEren barruan instalatu behar dira. Tutorial honetan, liburutegi hoiek nola instalatu erakutsiko dizuegu.
+
+
+        Liburutegi hauen instalazioa egiteko bi aukera daude: Arduinoko liburutegien erreferentziatik hartuta edota .zip formatuko karpetatik sartuta.
+
+
+1. Arduino Library Manager
+
+
+1. Ireki “Administrador de bibliotecas”. Horretarako Programa > Incluir librería > Administrador de bibliotecas…
+
+
+
+
+  
+
+
+
+2. “Gestor de librerías” barruan instalatu nahi den liburutegia bilatu eta “instalar” sakatu.
+
+
+  
+
+2. Zip formatuko karpeta baten bitartez
+
+
+Erabili nahi dugun liburutegiren bat arduino liburutegien erreferentzietan topatzen ez badugu, honela instalatu ditzakegu liburutegiak.
+
+
+1. Zip formatuko karpetan dagoen liburutegia deskargatu. Liburutegi hauek internetez bilatzen dira, normalean github plataforman ikusten ditugu.
+
+
+Lehenengo moduan instalatuko liburutegi bera instalatuko dugu bigarren adibide honetan ere.
+https://github.com/adafruit/DHT-sensor-library > Code > Download ZIP
+
+
+
+
+  
+
+
+
+
+
+
+
+2. Ireki “Añadir biblioteca ZIP”. Horretarako Programa > Incluir librería > Añadir biblioteca ZIP…
+
+
+  
+
+
+
+3. Instalatu beharreko liburutegia aukeratu eta “Abrir”
+
+
+  
+
+
+
+Instalatutako liburutegiekin probaren bat egin nahi izanez gero, Archivo > Ejemplos eta probatu!
