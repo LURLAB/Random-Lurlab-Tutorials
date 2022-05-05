@@ -1,0 +1,103 @@
+﻿ESP txartelak Arduino IDE: Lehen pausoak
+
+
+        Internet, blouetooth, LoRa… konexioetarako oso erabilgarriak diren ESP32 txartelak Arduino IDE bidez programa programatzeko aukera edukitzeko aurrez konfigurazio eta hasieraketa batzuk egin behar dira. Tutorial honetan ESP32 txartelak Arduino IDEn nola instalatu erakutsiko dizuegu.
+
+
+        ESP32 txartela zure Arduino IDEn instalatzeko
+
+
+ Jarraitu hurrengo argibide hauei:
+
+
+
+
+1. Arduino IDE ireki eta joan Archivo > Preferencias
+
+
+  
+
+
+
+
+
+2. Hurrengo esteka jarri “Gestor de URLs Adicionales de Tarjetas” barruan, eta gero OK:
+
+
+
+
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+	
+
+  
+
+
+
+Oharra: ESP8266 txartela erabili nahi izanez gero, pauso berdinak eginez honako esteka jarri:
+
+
+
+
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+	
+
+
+
+3. Ireki “Gestor de tarjetas”. Horretarako Herramientas > Placa > Gestor de tarjetas…
+
+
+
+
+  
+
+
+
+
+
+4. Bilatu ESP32 eta instalatu “esp32 by Espressif Systems” artxiboa:
+
+
+  
+
+
+
+
+
+5. Segundo gutxien buruab, instalatuta beharko luke:
+
+
+  
+
+
+
+
+
+Instalatutako probatzeko
+
+
+Prestatu ESP32 txartela ordenagailura. Zure Arduino IDEarekin, jarraitu urrats hauei:
+
+
+1. Aukeratu zure txartela Herramientas > Placa > ESP32 Arduino > (nire kasuan heltec)
+
+
+
+
+  
+
+
+
+
+
+
+
+2. Txartela ordenagailura konektatu ondoren, Herramientas > Puerto > Zure txartela
+
+
+  
+
+
+
+
+
+        Instalatutako txartelarekin probaren bat egin nahi izanez gero, Archivo > Ejemplos eta probatu!
