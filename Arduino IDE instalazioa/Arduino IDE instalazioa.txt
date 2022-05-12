@@ -1,6 +1,8 @@
 ﻿Arduino IDE instalazioa
 
 
+
+
         Elektronika munduko hastapenetarako, oso tresna baliotsuak dira mikrokontrolagailuak. Oinarrizkoak diren baliabideetatik abiatuz lehen pausoak emateko aukera bikaina da arduino. 
 Arduino software eta hardware erabilgarrietan oinarritutako plataforma elektronikoa da. 
 
@@ -47,4 +49,16 @@ Beraz, tutorial honetan gure ordenagailuetan Arduino IDE nola instalatu ikusiko 
 
 	
 
-        Instalazioa amaitu duzu! Arduino munduaren inguruan gehiago ikasi nahi baduzu, jarraitu gure tutorialak ikusten.
+        Behin instalatutakoan, Arduino IDE ingurunea EUSKARAZ jartzeko, honako pauso hauek eman behar dira.
+
+
+Archivo > Preferencias > Editor de idioma > Euskara > OK
+  
+
+	  
+
+	
+
+
+
+Instalazioa amaitu duzu! Arduino munduaren inguruan gehiago ikasi nahi baduzu, jarraitu gure tutorialak ikusten.
