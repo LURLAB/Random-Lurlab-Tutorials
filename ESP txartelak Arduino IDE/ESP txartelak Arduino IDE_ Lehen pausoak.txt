@@ -12,7 +12,7 @@
 
 
 
-1. Arduino IDE ireki eta joan Archivo > Preferencias
+1. Arduino IDE ireki eta joan Fitxategia> Hobespenak
 
 
   
@@ -21,7 +21,7 @@
 
 
 
-2. Hurrengo esteka jarri “Gestor de URLs Adicionales de Tarjetas” barruan, eta gero OK:
+2. Hurrengo esteka jarri “Plaka kudeatzaile gehigarrien URLak” barruan, eta gero OK:
 
 
 
@@ -29,7 +29,11 @@
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 	
 
+
+
   
+
+
 
 
 
@@ -43,7 +47,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 
 
-3. Ireki “Gestor de tarjetas”. Horretarako Herramientas > Placa > Gestor de tarjetas…
+3. Ireki “Gestor de tarjetas”. Horretarako Tresnak > Plaka > Plaken kudeatzailea…
 
 
 
@@ -57,6 +61,8 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 4. Bilatu ESP32 eta instalatu “esp32 by Espressif Systems” artxiboa:
 
 
+
+
   
 
 
@@ -64,6 +70,8 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 
 5. Segundo gutxien buruab, instalatuta beharko luke:
+
+
 
 
   
@@ -78,7 +86,7 @@ Instalatutako probatzeko
 Prestatu ESP32 txartela ordenagailura. Zure Arduino IDEarekin, jarraitu urrats hauei:
 
 
-1. Aukeratu zure txartela Herramientas > Placa > ESP32 Arduino > (nire kasuan heltec)
+1. Aukeratu zure txartela Tresnak > Plaka > ESP32 Arduino > bilatu zure txartela
 
 
 
@@ -91,7 +99,7 @@ Prestatu ESP32 txartela ordenagailura. Zure Arduino IDEarekin, jarraitu urrats h
 
 
 
-2. Txartela ordenagailura konektatu ondoren, Herramientas > Puerto > Zure txartela
+2. Txartela ordenagailura konektatu ondoren, Tresnak > Ataka > Zure txartelren ataka
 
 
   
@@ -100,4 +108,4 @@ Prestatu ESP32 txartela ordenagailura. Zure Arduino IDEarekin, jarraitu urrats h
 
 
 
-        Instalatutako txartelarekin probaren bat egin nahi izanez gero, Archivo > Ejemplos eta probatu!
+        Instalatutako txartelarekin probaren bat egin nahi izanez gero, Fitxategiak > Adibideak eta probatu!
