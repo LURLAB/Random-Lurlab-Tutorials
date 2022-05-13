@@ -10,12 +10,14 @@ Arduino IDEan idazten ditugun kode zatiak modu labur eta errazagoan egin ahal iz
 1. Arduino Library Manager
 
 
-1. Ireki “Administrador de bibliotecas”. Horretarako Programa > Incluir librería > Administrador de bibliotecas…
+1. Ireki “Administrador de bibliotecas”. Horretarako Programa > Erantsi liburutegia > Kudeatu liburutegiak…
 
 
 
 
   
+
+
 
 
 
@@ -47,7 +49,7 @@ https://github.com/adafruit/DHT-sensor-library > Code > Download ZIP
 
 
 
-2. Ireki “Añadir biblioteca ZIP”. Horretarako Programa > Incluir librería > Añadir biblioteca ZIP…
+2. Ireki “Añadir biblioteca ZIP”. Horretarako Programa > Erantsi liburutegia > Gehitu ZIP liburutegia…
 
 
   
@@ -61,4 +63,4 @@ https://github.com/adafruit/DHT-sensor-library > Code > Download ZIP
 
 
 
-Instalatutako liburutegiekin probaren bat egin nahi izanez gero, Archivo > Ejemplos eta probatu!
+Instalatutako liburutegiekin probaren bat egin nahi izanez gero, Fitxategia> Adibideak eta probatu!
