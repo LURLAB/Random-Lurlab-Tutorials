@@ -26,7 +26,7 @@ const char* password = "pasahitza";   //Aldatu lerro hau zure wifiaren pasahitza
 
 
 //Aldatu lerro hau zure IFTTT-ko gertakizunaren izenarekin (event) eta giltza-zenbakiarekin (key) 
-const char* resource = "https://maker.ifttt.com/trigger/EVENT_NAME/with/key/dhJdzqY3Hdikay5JfjMnm8";    //IFTTT - webhooks - documentation
+const char* resource = "https://maker.ifttt.com/trigger/EVENT_NAME/with/key/key_data_number";    //IFTTT - webhooks - documentation
 const char* server = "maker.ifttt.com"; //Erabiliko den zerbitzaria IoT
 uint64_t uS_TO_S_FACTOR = 1000000;    //Mikrosegunduetatik segunduetara aldatzeko
 uint64_t TIME_TO_SLEEP = 300;   //Jarri lerro honetan zenbateko tartea nahi den datuak zenbat segunduro jaso nahi diren
